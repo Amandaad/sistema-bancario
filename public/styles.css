@@ -13,6 +13,16 @@ body {
   padding: 1rem;
 }
 
+.highlight-yolo {
+  display: inline-block;
+  margin: 0 0 1rem;
+  padding: 0.4rem 0.75rem;
+  border-radius: 999px;
+  background: #fff4cc;
+  color: #8a6300;
+  font-weight: 700;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
