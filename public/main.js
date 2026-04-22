@@ -12,6 +12,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
   template: `
     <main class="container">
       <h1>Sistema Bancário (Node + Angular)</h1>
+      <p class="highlight-yolo">🏆 Conquista YOLO desbloqueada!</p>
 
       <section class="grid">
         <div class="card">
